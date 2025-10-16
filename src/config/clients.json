@@ -1,0 +1,15 @@
+{
+  "currentClient": "IndRoyal",
+  "clients": {
+    "IndRoyal": {
+      "name": "IndRoyal Properties",
+      "projects": {
+        "TheUptown": {
+          "path": "data/client_data/IndRoyal/TheUptown/propertyInfo.pdf",
+          "link": "https://indroyalproperties.com/the-uptown-luxury-flat-trivandrum/",
+          "embeddingsPath": "data/client_data/IndRoyal/TheUptown/embeddings.json"
+        }
+      }
+    }
+  }
+}
